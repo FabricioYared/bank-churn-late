@@ -34,7 +34,7 @@ git clone https://github.com/<USER>/bank-churn-late.git
 ### Paso 5: Instalar los pre-requisitos
 
 ```
-cd model-credit/
+cd bank-churn-late/
 
 pip install -r requirements.txt
 ```

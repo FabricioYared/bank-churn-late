@@ -1,7 +1,6 @@
 # bank-churn-late
 ==============================
-Alumnos:
-
+## Alumnos:
 
 - Fabricio Yared Cardenas Huaman
 - Andres Alfredo Soto Ayala
